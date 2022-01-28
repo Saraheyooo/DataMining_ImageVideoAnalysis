@@ -10,3 +10,8 @@ Question 2
 Google Images can uncover interesting cultural representations. For example, if you search for “CEO”, you will mainly see pictures of middle- aged white males; if you search for “big data”, you will see an abundance of dark blue, cyberspace-like images.
 Come up with a Google Images query you want to research, explain your choice, and collect at least 50 images from this query.
 Then analyze the images using one of the methods we explored in week 4, 5 or 6. Make sure to motivate your choice of method: why are the image features you chose relevant in the context of your query? Interpret the results and discuss what other features could be relevant to analyze.
+
+
+Question 3
+Use the subsets of movie trailers from 1920-1940, 1960-1980 and 2000-2020 from exercise 6.1, but instead of comparing the shot types and shot lengths, use one of the (pre-trained) image feature extraction methods we discussed in exercise 5.2 to compare the subsets, and explain your choice. 
+Make a plan for tackling the dimensionality of the data: each subset consists of multiple videos, each video consist of multiple frames/seconds/shots, and each frame/second/shot could contain multiple faces/genders/emotions/objects/texts/colors. How are you going to compare the subsets? Explain the choices you make carefully. Then implement your plan and interpret the results.
