@@ -1,5 +1,10 @@
 # DataMining_ImageVideoAnalysis
 20220112
+
+In this repository, there are three questions that address different aspects of image and video analysis using data mining techniques. The methods include object detection using the MS COCO, ResNet-50 model, Keras based on TensorFlow library and visualizes networks using Gephi. After loading the images by URL and pre-processing the features, we can discover insight into these data. Finally, apply Matplotlib, Seaborn tools and t-SNE to visualize the results and interpret the conclusions.
+
+
+
 ## Question 1
 
 A researcher has performed a network analysis on the dataset and now likes to know whether we can find different types of video thumbnails in different communities. In order to answer that question, she wants to categorize the video thumbnails using image classification.
